@@ -2,7 +2,7 @@ package com.example;
 
 import org.junit.jupiter.api.Test;
 
-import static com.example.KoreanServlet.인코딩;
+import static com.example.servlet.KoreanServlet.인코딩;
 import static org.assertj.core.api.Assertions.assertThat;
 
 class FilterTest {
