@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Test;
 import java.util.HashSet;
 
 import static org.assertj.core.api.Assertions.assertThat;
+import static org.assertj.core.api.Assertions.in;
 
 class Stage3Test {
 
