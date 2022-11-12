@@ -1,5 +1,6 @@
 package aop.service;
 
+import aop.DataAccessException;
 import aop.Transactional;
 import aop.domain.User;
 import aop.domain.UserHistory;
